@@ -1,4 +1,4 @@
-# CS-Math-Prof-Resources
+# CS-Math-Edu-Hub
 
 A collection of links to professors' pages, courses, and educational materials in Computer Science and Mathematics.
 
