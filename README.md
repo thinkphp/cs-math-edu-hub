@@ -6,7 +6,7 @@ A collection of links to professors' pages, courses, and educational materials i
 
 ### Professors' Pages
 - [Rafael Pass - Cornell University](https://www.cs.cornell.edu/~rafael/) - Professor of Computer Science.
-- [John Doe - MIT Mathematics](https://example.com) - Another example.
+- [Eric Roberts- Stanford]( https://cs.stanford.edu/people/eroberts/).
 
 ### Courses and Teaching Materials
 - [CS50 by Harvard](https://cs50.harvard.edu/) - Introduction to Computer Science.
