@@ -17,5 +17,5 @@ A collection of links to professors' pages, courses, and educational materials i
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX editor.
 
 ### Books and Articles
-- [Introduction to Algorithms (CLRS)](https://example.com) - A classic book on algorithms.
-- [Mathematics for Computer Science (MIT)](https://example.com) - Free textbook.
+- [Introduction to Algorithms (CLRS)](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf) - A classic book on algorithms.
+
