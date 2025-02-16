@@ -7,7 +7,7 @@ A collection of links to professors' pages, courses, and educational materials i
 ### Professors' Pages
 - [Rafael Pass - Cornell University](https://www.cs.cornell.edu/~rafael/) - Professor of Computer Science.
 - [Eric Roberts - Stanford University]( https://cs.stanford.edu/people/eroberts/) - Professor of Computer Science.
-- [Ray Toal - Loyola Marymount University](https://cs.lmu.edu/~ray/)
+- [Ray Toal - Loyola Marymount University](https://cs.lmu.edu/~ray/) Professor of Computer Science
 - [Gregory Valiant - Stanford's Computer Science Department](https://theory.stanford.edu/~valiant/teaching.html) - Associate Professor Computer Science Department
 
 ### Courses and Teaching Materials
