@@ -13,6 +13,7 @@ A collection of links to professors' pages, courses, and educational materials i
 ### Courses and Teaching Materials
 - [CS50 by Harvard](https://cs50.harvard.edu/) - Introduction to Computer Science.
 - [MIT OpenCourseWare - Mathematics](https://ocw.mit.edu/courses/mathematics/) - Free math courses.
+- [Standford Free Online Courses](https://online.stanford.edu/free-courses) Free Online Courses
 
 ### Tools and Software
 - [Jupyter Notebooks](https://jupyter.org/) - Interactive computing.
