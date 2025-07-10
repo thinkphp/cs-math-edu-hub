@@ -9,6 +9,7 @@ A collection of links to professors' pages, courses, and educational materials i
 - [Eric Roberts - Stanford University]( https://cs.stanford.edu/people/eroberts/) - Professor of Computer Science.
 - [Ray Toal - Loyola Marymount University](https://cs.lmu.edu/~ray/) Professor of Computer Science
 - [Gregory Valiant - Stanford's Computer Science Department](https://theory.stanford.edu/~valiant/teaching.html) - Associate Professor Computer Science Department
+- https://sites.math.rutgers.edu/~zeilberg/akherim/NickApology.pdf
 
 ### Courses and Teaching Materials
 - [CS50 by Harvard](https://cs50.harvard.edu/) - Introduction to Computer Science.
