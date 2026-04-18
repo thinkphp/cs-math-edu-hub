@@ -23,3 +23,7 @@ A collection of links to professors' pages, courses, and educational materials i
 ### Books and Articles
 - [Introduction to Algorithms (CLRS)](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf) - A classic book on algorithms.
 
+### Analiza matematica 
+https://dep2.mathem.upb.ro/pdf/didactice/Ecuatii%20diferentiale%20si%20cu%20derivate%20%20%20%20partiale%20Vol.%201.pdf
+
+
