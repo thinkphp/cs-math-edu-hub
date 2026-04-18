@@ -30,4 +30,4 @@ https://dep2.mathem.upb.ro/pdf/didactice/Ecuatii%20diferentiale%20si%20cu%20deri
 
 https://cs.unibuc.ro/~asipos/
 
-
+https://nlp.unibuc.ro/courses/LFA.pdf
