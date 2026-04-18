@@ -26,4 +26,8 @@ A collection of links to professors' pages, courses, and educational materials i
 ### Analiza matematica 
 https://dep2.mathem.upb.ro/pdf/didactice/Ecuatii%20diferentiale%20si%20cu%20derivate%20%20%20%20partiale%20Vol.%201.pdf
 
+### Logica matematica
+
+https://cs.unibuc.ro/~asipos/
+
 
