@@ -31,7 +31,8 @@ https://dep2.mathem.upb.ro/pdf/didactice/Ecuatii%20diferentiale%20si%20cu%20deri
 https://cs.unibuc.ro/~asipos/
 
 
-### stuff
+### unibuc staff
 https://nlp.unibuc.ro/courses/LFA.pdf
 https://sites.google.com/view/guillaume-ducoffes-homepage/home
 https://cs.unibuc.ro/~tserbanuta/
+https://cs.unibuc.ro/people/
