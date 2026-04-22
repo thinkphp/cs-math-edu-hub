@@ -10,6 +10,7 @@ A collection of links to professors' pages, courses, and educational materials i
 - [Ray Toal - Loyola Marymount University](https://cs.lmu.edu/~ray/) Professor of Computer Science
 - [Gregory Valiant - Stanford's Computer Science Department](https://theory.stanford.edu/~valiant/teaching.html) - Associate Professor Computer Science Department
 - https://sites.math.rutgers.edu/~zeilberg/akherim/NickApology.pdf
+- [Wayne] https://www.cs.princeton.edu/~wayne/teaching/
 
 ### Courses and Teaching Materials
 - [CS50 by Harvard](https://cs50.harvard.edu/) - Introduction to Computer Science.
@@ -32,7 +33,7 @@ https://cs.unibuc.ro/~asipos/
 
 
 ### unibuc staff
-https://nlp.unibuc.ro/courses/LFA.pdf
-https://sites.google.com/view/guillaume-ducoffes-homepage/home
-https://cs.unibuc.ro/~tserbanuta/
-https://cs.unibuc.ro/people/
+- https://nlp.unibuc.ro/courses/LFA.pdf
+- https://sites.google.com/view/guillaume-ducoffes-homepage/home
+- https://cs.unibuc.ro/~tserbanuta/
+- https://cs.unibuc.ro/people/
