@@ -11,7 +11,7 @@ A collection of links to professors' pages, courses, and educational materials i
 - [Gregory Valiant - Stanford's Computer Science Department](https://theory.stanford.edu/~valiant/teaching.html) - Associate Professor Computer Science Department
 - https://sites.math.rutgers.edu/~zeilberg/akherim/NickApology.pdf
 - [Kevin Wayne](https://www.cs.princeton.edu/~wayne/teaching/) - Professor CS Princeton
-- (https://www.cip.ifi.lmu.de/~grinberg/) - Assistant Professor Drexel University
+- [https://www.cip.ifi.lmu.de/~grinberg/](https://www.cip.ifi.lmu.de/~grinberg/)- Assistant Professor Drexel University
 
 ### Courses and Teaching Materials
 - [CS50 by Harvard](https://cs50.harvard.edu/) - Introduction to Computer Science.
